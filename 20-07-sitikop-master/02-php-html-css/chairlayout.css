@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/*NAVIGATION BAR*/
+
+
+a{
+    color: white;
+    font-size: 22px;
+}
+
+body{
+    background-color: white;
+    font-family: 'Lora', serif;
+}
+.nav-item{
+    padding-left: 48px;
+}
+
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: black;
+    color: white;
+}
+
+.title{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+    padding: 0;
+}
+
+h2{
+    font-family: 'Arial';
+    padding-left: 80px;
+    font-weight: bold;
+    color: black;
+    font-size: 28px;
+}
+
+h3{
+    font-family: 'Arial';
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+p{
+    font-size: 24px;
+    font-family: 'Times New Roman';
+    font-weight: normal;
+    color: black;
+}
+
+.p2{
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    font-weight:normal;
+    color: black;
+    padding-left: 100px;
+}
+
+.line{
+    background-color: black;
+    width: 140px;
+    height: 2px;
+    margin-left: 60px;
+}
+
+.line2{
+    background-color: white;
+    width: 40px;
+    height: 2px;
+    margin-left: 10px;
+
+}
+
+
+.nav-link, .navbar-brand{
+    color: white;
+}
+
+/*SECTION*/
+
+section{
+    width: 100%;
+    height: 50%;
+}
+
+.movie-display{
+    position: relative;
+    width: 85%;
+    height: 20px;
+    margin: 20px auto;
+    border: solid;
+}
+
+.row{
+    text-align: center;
+    padding: 0 10%;
+}
+
+.col-lg-6{
+    height: 400px;
+    padding: 10px;
+    margin-top: 90px;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+}
+
+.col-lg-12{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+
+.A{
+    position: absolute;
+    font-size: 200px;
+    left: 40%;
+    top: 10%;
+    color: black;
+    opacity: .3;
+}
+
+.B{
+    position: absolute;
+    font-size: 200px;
+    left: 40%;
+    top: 10%;
+    opacity: .3;
+}
+
+.C{
+    position: absolute;
+    font-size: 200px;
+    left: 40%;
+    top: 10%;
+    opacity: .3;
+}
+
+.D{
+    position: absolute;
+    font-size: 200px;
+    left: 40%;
+    top: 10%;
+    opacity: .3;
+}
+
+.buy-ticket{
+    width: 120px;
+    height: 50px;
+}

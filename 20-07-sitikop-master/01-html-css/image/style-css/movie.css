@@ -1,0 +1,56 @@
+ a{
+      color:white;
+      font-size: 22px;
+  }
+
+  body{
+    background-color: white;
+
+  }
+
+  .nav-item{
+      padding-left: 48px;
+  }
+
+  .navbar{
+      background-color: black;
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+
+  .title{
+
+      font-family: 'Times New Roman';
+      font-size: 40px;
+      font-weight: bold;
+      padding: 0;
+  }
+
+  h2{
+      font-family: 'Arial';
+      padding-left: 80px;
+      font-weight: bold;
+      color: black;
+      font-size: 28px;
+  }
+
+  p{
+      font-size: 24px;
+      font-family: 'Times New Roman';
+      font-weight: bold;
+      color:black;
+  }
+
+  .line{
+      background-color: black;    
+      width: 140px;
+      height: 2px;
+      margin-left: 60px;
+  }
+
+  .line2{
+      border-bottom: 3px solid white;
+      width: 40px;
+      height: 2px;
+      margin-left: 10px;
+  }

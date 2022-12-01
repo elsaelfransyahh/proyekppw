@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#navbar-sec{
+    width: 100%;
+}
+
+a{
+    color: white;
+    font-size: 22px;
+}
+
+body{
+    background-color: white;
+    font-family: 'Lora', serif;
+}
+.nav-item{
+    padding-left: 48px;
+}
+
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: black;
+}
+
+.title{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+    padding: 0;
+}
+
+h2{
+    font-family: 'Arial';
+    padding-left: 80px;
+    font-weight: bold;
+    color: black;
+    font-size: 28px;
+}
+
+h3{
+    font-family: 'Arial';
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+p{
+    font-size: 24px;
+    font-family: 'Times New Roman';
+    font-weight: normal;
+    color: black;
+}
+
+.p2{
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    font-weight:normal;
+    color: black;
+    padding-left: 100px;
+}
+
+.line{
+    background-color: black;
+    width: 140px;
+    height: 2px;
+    margin-left: 60px;
+}
+
+.line2{
+    background-color: white;
+    width: 40px;
+    height: 2px;
+    margin-left: 10px;
+
+}
+
+/*section*/
+
+section{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 1080px;
+}
+
+.container-sec{
+    z-index: -1;
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    height: 1080px;
+    margin: 0 auto;
+}
+
+h1, h4, h5, h3{
+    color: rgb(0, 0, 0);
+}
+
+.hero-desc{
+    right: 60px;
+    top: 130px;
+    float: right;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.container-sec img{
+    position: absolute;
+    top: 120px;
+    z-index: 0;
+    float: left;
+}
+
+button{
+    position: absolute;
+}
+
+#buy{
+    width: 200px;
+    top: 100px;
+    right: 350px;
+}
+
+#add{
+    width: 200px;
+    top: 100px;
+    right: 140px;
+}
+
+.hero-desc h3{
+    position: absolute;
+    top: 150px;
+}
+
+.hero-desc h6{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+}
+
+#d0{
+    position: absolute;
+    top: 200px;
+}
+
+#d1{
+    top: 250px;
+}
+#d2{
+    top: 270px;
+}
+#d3{
+    top: 290px;
+}
+#d4{
+    top: 310px;
+}
+#d5{
+    top: 330px;
+}
+#d6{
+    top: 350px;
+}
+
+#d7{
+    top: 370px;
+}
+
+#dsyn{
+    clear: right;
+    position: absolute;
+    color: white;
+    top: 700px;
+}
+
+.syn-desc{
+    width: 900px;
+    clear: right;
+    position: absolute;
+    color: white;
+    top: 750px;
+}

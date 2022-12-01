@@ -1,0 +1,86 @@
+<style>
+    *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    color: white;
+    font-size: 22px;
+}
+
+body{
+    background-color: white;
+    font-family: 'Lora', serif;
+}
+.nav-item{
+    padding-left: 48px;
+}
+
+.navbar{
+    #navbar-sec{
+        Background-color: black;
+       }
+}
+
+.title{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+    padding: 0;
+}
+
+h2{
+    font-family: 'Arial';
+    padding-left: 80px;
+    font-weight: bold;
+    color: black;
+    font-size: 28px;
+}
+
+h3{
+    font-family: 'Arial';
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+p{
+    font-size: 24px;
+    font-family: 'Times New Roman';
+    font-weight: normal;
+    color: black;
+}
+
+.p2{
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    font-weight:normal;
+    color: black;
+    padding-left: 100px;
+}
+
+.line{
+    background-color: black;
+    width: 140px;
+    height: 2px;
+    margin-left: 60px;
+}
+
+.line2{
+    background-color: white;
+    width: 40px;
+    height: 2px;
+    margin-left: 10px;
+
+}
+form{
+    padding-top: 12%;
+    text-align: center;
+}
+
+.textbox{
+    padding-bottom: 10px;
+}
+</style>

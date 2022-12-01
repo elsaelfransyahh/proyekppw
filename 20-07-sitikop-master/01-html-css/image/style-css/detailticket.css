@@ -1,0 +1,103 @@
+a{
+    color: white;
+    font-size: 22px;
+}
+
+.hero{
+width: 100%;
+margin-left: 600px;
+background-color: white;
+padding-top: 0;
+}
+
+
+body{
+    background-color: white;
+}
+
+.nav-item{
+    padding-left: 48px;
+}
+
+.navbar{
+  background-color: black;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.movies-tick-desc{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    width: 600px;
+    font-size: 25px;
+    font-family: 'Arial';
+}
+
+.title{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+    padding: 0;
+}
+
+.check{
+    padding-bottom: 100px;
+    margin-top: 450px;
+    float: right;
+   
+}
+
+.name{
+    top: 700px;
+    color: black;
+}
+
+.explan{
+    padding-top: 50px;
+   
+}
+
+.movies-name{
+    margin-top: 0px;
+    float: left;
+    color: black;
+    padding-right: 800px;
+    font-size: 30px;
+}   
+
+h2{
+    font-family: 'Arial';
+    padding-left: 80px;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+p{
+    font-size: 24px;
+    font-family: 'Times New Roman';
+    font-weight: normal;
+    color: black;
+}
+
+.line{
+    background-color: black;
+    width: 140px;
+    height: 3px;
+    margin-left: 60px;
+}
+
+.line2{
+    background-color: white;
+    width: 40px;
+    height: 2px;
+    margin-left: 10px;
+}
+
+#image1{
+position: absolute;
+width: 270px;
+top: 200px;
+float: left;
+}

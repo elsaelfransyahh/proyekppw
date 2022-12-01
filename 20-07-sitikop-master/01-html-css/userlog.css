@@ -1,0 +1,37 @@
+<body>
+<nav id="navbar-sec" class="navbar navbar-expand-md navbar-black bg-black">
+        <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
+            <a class="navbar-brand title" href="#">22.</a>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="homepagestartphprepair.php">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Movies</a>
+                </li>
+                <col-md-3>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Cinema</a>
+                </li>
+                </col-md-3>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About Us</a>
+                </li>
+            </ul>
+        </div>
+        <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><span class="fa fa-search" style="font-size:24px"></span></a>
+                </li>
+                <li class="nav-item">
+                    <button type="button" class="btn btn-dark" style="border-color:silver;"><span class="fa fa-bars"></span></button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="user_log">
+        <h1><?= $row["username"];?> <?= $row["aksi"];?> <?= 
+    </div>
+</body>
